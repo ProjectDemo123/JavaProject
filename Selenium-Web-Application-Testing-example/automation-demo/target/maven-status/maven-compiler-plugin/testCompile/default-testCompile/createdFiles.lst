@@ -1,0 +1,5 @@
+mary\demo\webtest\HomePageTest.class
+mary\demo\webtest\WebTestBase.class
+mary\demo\webtest\ErrorPageTest.class
+mary\demo\webtest\ScreenshotHelper.class
+mary\demo\webtest\NewUserPageTest.class
